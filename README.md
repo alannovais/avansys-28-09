@@ -9,7 +9,9 @@
 ## Informações adicionais.
 1) No seu fork crie um readme.md contendo as seguintes informações.
     - Qual arquitetura utilizada no seu projeto.
+      - Back efetuado com Laravel, utilizando Rest API, Front preparado para consumir as requisições disponibilizadas pelo back.
     - Teve algum problema no momento do desenvolvimento que gostaria de nos dizer?
+      -Alguns contratempos profissionais e profissionais, porém a prova estava tranquila.
     - Fez algo adicional que não estava previsto nesse documento e gostaria de nos dizer?
   
 ## Objetivos do desafio:  
