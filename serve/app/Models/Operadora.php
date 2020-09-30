@@ -7,5 +7,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class Operadora extends Model
 {
-    protected $fillable = ['operadora'];
+    protected $fillable = ['operadora', 'descricao', 'status'];
 }
